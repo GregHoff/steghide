@@ -32,6 +32,7 @@
 #include "common.h"
 #include "msg.h"
 #include "wrapper_hash_set.h"
+#include "limits.h"
 
 Graph::Graph (CvrStgFile *cvr, const BitString& emb, Selector& sel)
 {

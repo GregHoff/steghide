@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Generated files
+Makefile
+config.h
+config.log
+config.status
+Makefile.in
+POTFILES
+.deps/
+stamp-h1
+steghide.doxygen
+steghide.spec
+src/steghide
+tests/unittests
+*.gmo
